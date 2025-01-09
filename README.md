@@ -1,5 +1,5 @@
 # cra-template-moments
-This A the template for ```create-react-app``` for students to be able to follow the React Essentials module content.
+This is the template for ```create-react-app``` for students to be able to follow the React Essentials module content.
 
 ### Usage
 
